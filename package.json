@@ -1,0 +1,16 @@
+{
+  "name": "applytrack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-stack job application tracker",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}

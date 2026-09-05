@@ -1,0 +1,50 @@
+[
+  {
+    "id": "seed-1",
+    "company": "Northstar Labs",
+    "role": "Frontend Developer",
+    "status": "Interview",
+    "location": "Remote",
+    "workType": "Remote",
+    "salary": "$70k - $85k",
+    "source": "LinkedIn",
+    "link": "https://example.com/jobs/frontend",
+    "appliedDate": "2026-08-28",
+    "nextStep": "Technical interview on September 8",
+    "notes": "Review accessibility and JavaScript fundamentals.",
+    "createdAt": "2026-08-28T09:00:00.000Z",
+    "updatedAt": "2026-09-03T10:30:00.000Z"
+  },
+  {
+    "id": "seed-2",
+    "company": "PixelCraft",
+    "role": "Full Stack Developer",
+    "status": "Applied",
+    "location": "Islamabad, Pakistan",
+    "workType": "Hybrid",
+    "salary": "",
+    "source": "Company website",
+    "link": "https://example.com/jobs/full-stack",
+    "appliedDate": "2026-09-01",
+    "nextStep": "Follow up after one week",
+    "notes": "Node.js and REST API role.",
+    "createdAt": "2026-09-01T11:00:00.000Z",
+    "updatedAt": "2026-09-01T11:00:00.000Z"
+  },
+  {
+    "id": "seed-3",
+    "company": "DataVista",
+    "role": "Junior Software Engineer",
+    "status": "Wishlist",
+    "location": "Lahore, Pakistan",
+    "workType": "On-site",
+    "salary": "",
+    "source": "Referral",
+    "link": "https://example.com/jobs/software-engineer",
+    "appliedDate": "",
+    "nextStep": "Tailor resume before applying",
+    "notes": "Position combines web development and machine learning.",
+    "createdAt": "2026-09-02T08:00:00.000Z",
+    "updatedAt": "2026-09-02T08:00:00.000Z"
+  }
+]
