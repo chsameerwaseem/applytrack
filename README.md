@@ -28,10 +28,11 @@ http://localhost:3000. For automatic server restarts, run npm run dev.
 
 ## Live Demo
 
-The application is ready to deploy on Render using `render.yaml`. The hosted
-demo uses Render's temporary filesystem, so application records may reset when
-the free service restarts or is redeployed. Local installations keep their data
-in `data/applications.json`.
+[Open ApplyTrack](https://applytrack-lme1.onrender.com)
+
+The hosted demo uses Render's temporary filesystem, so application records may
+reset when the free service restarts or is redeployed. Local installations keep
+their data in `data/applications.json`.
 
 ## Test
 
