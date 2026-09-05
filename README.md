@@ -26,6 +26,13 @@ follow-ups, interviews, and offers in one focused workspace.
 Requires Node.js 20 or later. Run npm start and open
 http://localhost:3000. For automatic server restarts, run npm run dev.
 
+## Live Demo
+
+The application is ready to deploy on Render using `render.yaml`. The hosted
+demo uses Render's temporary filesystem, so application records may reset when
+the free service restarts or is redeployed. Local installations keep their data
+in `data/applications.json`.
+
 ## Test
 
 Run npm test.
