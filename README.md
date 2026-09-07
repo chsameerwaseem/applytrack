@@ -3,6 +3,16 @@
 ApplyTrack is a full-stack job application tracker for managing opportunities,
 follow-ups, interviews, and offers in one focused workspace.
 
+## Live Demo
+
+[Open ApplyTrack](https://applytrack-lme1.onrender.com/)
+
+![ApplyTrack dashboard](./applytrack-dashboard.png)
+
+The hosted demo uses Render's temporary filesystem, so application records may
+reset when the free service restarts or is redeployed. Local installations keep
+their data in `data/applications.json`.
+
 ## Features
 
 - Create, edit, delete, search, filter, and sort applications
@@ -26,14 +36,6 @@ follow-ups, interviews, and offers in one focused workspace.
 Requires Node.js 20 or later. Run npm start and open
 http://localhost:3000. For automatic server restarts, run npm run dev.
 
-## Live Demo
-
-[Open ApplyTrack](https://applytrack-lme1.onrender.com)
-
-The hosted demo uses Render's temporary filesystem, so application records may
-reset when the free service restarts or is redeployed. Local installations keep
-their data in `data/applications.json`.
-
 ## Test
 
 Run npm test.
@@ -49,9 +51,8 @@ Run npm test.
 
 List requests support q, status, and sort query parameters.
 
-## Author
+## Built By
 
-Sameer Waseem
+Developed by [Sameer Waseem](https://github.com/chsameerwaseem) and presented by [TwinStack Studio](https://github.com/twinstack-studio).
 
-- GitHub: https://github.com/chsameerwaseem
-- LinkedIn: https://www.linkedin.com/in/sameer-waseem-5ba19532b/
+For project inquiries: hello.twinstackstudio@gmail.com
