@@ -2,3 +2,7 @@ node_modules/
 coverage/
 *.log
 data/*.tmp
+.env
+.env.*
+!.env.example
+.DS_Store
